@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arkar Min</h1>
 <h3 align="center">Freelance Android Developer</h3>
 
-- 🔭 I’m currently working at a **Freelance**
+- 🔭 I’m currently working as a **Freelance**
 
 - 🌱 I’m currently learning **Flutter**
 
